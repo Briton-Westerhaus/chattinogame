@@ -1,6 +1,7 @@
 import pygame
 import random
 
+# Test
 # Step 1: Constants and Initialization
 pygame.init()
 pygame.mixer.init()
